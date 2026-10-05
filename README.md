@@ -10,4 +10,10 @@
    Video Link: https://youtu.be/LpSqUZ5DMDo
 
 4. Colab 4 Colab Link: https://colab.research.google.com/drive/1ex_5pm-2tpOQf3xsfjCpa3NHofDWMCJ9?usp=sharing
-   Video Link: 
+   Video Link: https://youtu.be/XJrFnDmgMbE
+
+5. Colab 5 Colab Link: https://colab.research.google.com/drive/1r8hHDzQ7tOB-sTsvsfAdpViAx5tvcAXF?usp=sharing
+   Video Link: https://youtu.be/57Q8DaSD5_Q
+
+6. Colab 6 Colab Link: https://colab.research.google.com/drive/1M676mGVN1tnRP5XLXP_-eLmXuJdP7Dd5?usp=sharing
+   Video Link: https://youtu.be/VdQsJGPVtHo
